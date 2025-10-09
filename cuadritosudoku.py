@@ -1,3 +1,4 @@
+
 lista =[0]*72
 c=0; p=2; rep=0
 while (c<72):
