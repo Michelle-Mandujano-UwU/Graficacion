@@ -1,3 +1,4 @@
+# Yo pense que era dibujar pulmones en lugar de riñones por eso estos los hice hasta ahorita, pero hay andan los pulmones desde mucho antes y los demas organos en mi git
 # Este codigo crea un objeto en 3D de unos riñones utilizando OpenGL y GLFW. Formado por primitivas ( esferas y cilindros)
 
 import glfw
