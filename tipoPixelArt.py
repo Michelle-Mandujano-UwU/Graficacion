@@ -1,4 +1,4 @@
-# Actividad en 
+# Actividad en Apuntes de graficacion: Generar una imagen tipo pixel art utilizando una matriz de enteros en el rango de 0 a 255.
 
 import numpy as np 
 import cv2 as cv
